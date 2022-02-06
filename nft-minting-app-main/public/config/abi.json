@@ -416,7 +416,7 @@
 				"type": "uint16"
 			}
 		],
-		"name": "mint",
+		"name": "minting",
 		"outputs": [],
 		"stateMutability": "payable",
 		"type": "function"
