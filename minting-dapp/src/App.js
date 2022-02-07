@@ -78,7 +78,6 @@ export const StyledImg = styled.img`
   box-shadow: 0px 5px 11px 2px rgba(0, 0, 0, 0.7);
   border: 4px solid var(--secondary);
   background-color: var(--accent);
-  border-radius: 100%;
   width: 200px;
   @media (min-width: 900px) {
     width: 250px;
@@ -207,7 +206,7 @@ function App() {
         <s.SpacerSmall />
         <ResponsiveWrapper flex={1} style={{ padding: 24 }} test>
           <s.Container flex={1} jc={"center"} ai={"center"}>
-            <StyledImg alt={"example"} src={"/config/images/example1.gif"} />
+            <StyledImg alt={"example1"} src={"/config/images/example1.gif"} />
           </s.Container>
           <s.SpacerLarge />
           <s.Container
