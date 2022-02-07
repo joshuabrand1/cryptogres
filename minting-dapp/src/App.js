@@ -32,6 +32,7 @@ export const StyledRoundButton = styled.button`
   padding: 10px;
   border-radius: 100%;
   border: none;
+  background-image: url("/config/images/button.png") no-repeat scroll 0 0 transparent;
   background-color: var(--primary);
   padding: 10px;
   font-weight: bold;
