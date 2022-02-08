@@ -35,7 +35,7 @@ export const StyledRoundButton = styled.button`
   background: url('/config/images/button.png') no-repeat;
   padding: 10px;
   font-weight: bold;
-  font-size: 15px;
+  font-size: 30px;
   color: var(--primary-text);
   width: 70px;
   height: 70px;
