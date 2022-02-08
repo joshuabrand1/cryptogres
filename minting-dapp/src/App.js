@@ -350,14 +350,14 @@ function App() {
                         -
                       </StyledRoundButton>
                       <s.SpacerMedium />
-                      <s.TextDescription
+                      <s.mintAmountText
                         style={{
                           textAlign: "center",
                           color: "var(--accent-text)",
                         }}
                       >
                         {mintAmount}
-                      </s.TextDescription>
+                      </s.mintAmountText>
                       <s.SpacerMedium />
                       <StyledRoundButton
                         disabled={claimingNft ? 1 : 0}
