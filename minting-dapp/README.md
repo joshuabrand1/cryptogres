@@ -1,4 +1,4 @@
-![](https://github.com/The-Stripes-NFT/nft-minting-app/blob/main/logo-blob.png)
+![](https://github.com/joshuabrand1/cryptogres/blob/main/minting-dapp/logo-blob.png)
 
 CryptOgres NFT Collection Minting dApp. Wanting to mint a CryptOgre? Check our links below.
 
