@@ -63,6 +63,12 @@ export const TextSubTitle = styled.p`
   line-height: 1.6;
 `;
 
+export const mintAmount = styled.p`
+  color: var(--primary-text);
+  font-size: 30px;
+  line-height: 1.6;
+`;
+
 export const TextDescription = styled.p`
   color: var(--primary-text);
   font-size: 16px;
