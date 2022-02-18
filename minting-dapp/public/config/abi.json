@@ -144,6 +144,24 @@
 		"inputs": [
 			{
 				"internalType": "address",
+				"name": "_buyer",
+				"type": "address"
+			},
+			{
+				"internalType": "uint256",
+				"name": "_amt",
+				"type": "uint256"
+			}
+		],
+		"name": "addUserToPresale",
+		"outputs": [],
+		"stateMutability": "nonpayable",
+		"type": "function"
+	},
+	{
+		"inputs": [
+			{
+				"internalType": "address",
 				"name": "to",
 				"type": "address"
 			},
