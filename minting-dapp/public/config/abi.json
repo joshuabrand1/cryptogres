@@ -117,12 +117,12 @@
 	{
 		"inputs": [
 			{
-				"internalType": "address[500]",
+				"internalType": "address[2]",
 				"name": "_users",
-				"type": "address[500]"
+				"type": "address[2]"
 			}
 		],
-		"name": "add500PresaleUsers",
+		"name": "add2PresaleUsers",
 		"outputs": [],
 		"stateMutability": "nonpayable",
 		"type": "function"
