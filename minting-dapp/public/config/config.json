@@ -1,18 +1,18 @@
 {
-  "CONTRACT_ADDRESS": "0xd7aF718E3Cf028855A6048ec8247cB28e9540e13",
-  "SCAN_LINK": "https://etherscan.io/address/0xd7aF718E3Cf028855A6048ec8247cB28e9540e13",
+  "CONTRACT_ADDRESS": "0x06eD709D0dBCb85864858A7Cb8273A26683ecE19",
+  "SCAN_LINK": "https://etherscan.io/address/0x06eD709D0dBCb85864858A7Cb8273A26683ecE19",
   "NETWORK": {
-    "NAME": "Rinkeby Test Network",
+    "NAME": "Ethereum Mainnet",
     "SYMBOL": "ETH",
-    "ID": 4
+    "ID": 1
   },
   "NFT_NAME": "CryptOgres",
   "SYMBOL": "OGRE",
   "MAX_SUPPLY": 4444,
-  "WEI_COST": 1000000000000000,
-  "DISPLAY_COST": 0.001,
+  "WEI_COST": 50000000000000000,
+  "DISPLAY_COST": 0.05,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opensea",
-  "MARKETPLACE_LINK": "https://opensea.io/CryptOgres_NFT",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/cryptogres-ftmv",
   "SHOW_BACKGROUND": true
 }
